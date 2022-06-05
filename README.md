@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Pandey</h1>
 <h3 align="center">I'm a Noob CS Student from India🇮🇳</h3>
 
-![](http://i.imgur.com/dNYswmI.gif)
+![hi](http://i.imgur.com/dNYswmI.gif)
 
 - 🔭 I’m currently working on **Telegram Bots & Open Source Projects**
 
